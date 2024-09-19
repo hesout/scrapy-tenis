@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# activate python venv
+source "$PWD/.venv/bin/activate"
